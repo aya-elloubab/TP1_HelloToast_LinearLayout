@@ -1,5 +1,5 @@
 # Description et fonctionnalités
-Cette application simple nommée HelloToast, est composée de deux boutons et d'un champ texte. Cette application présente les fonctionnalités suivantes:
+Cette application simple nommée HelloToast, est composée de deux boutons et d'un champ texte. Cette application présente les fonctionnalités suivantes: 
 •	Bouton 1 ("Toast") : Lorsqu'on clique sur ce bouton, un message court (Toast) s'affiche au bas de l'écran, indiquant un message de bienvenue.
 •	Bouton 2 ("Count") : Chaque clic sur ce bouton incrémente un compteur, et la nouvelle valeur est affichée dans le champ texte TextView.
 L'interface a été construite en utilisant LinearLayout. Ce layout permet d'organiser les vues en ligne (horizontale ou verticale). Ici, les boutons et le champ texte ont été placés verticalement.
